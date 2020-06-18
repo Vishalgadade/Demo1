@@ -15,6 +15,7 @@ public class TC001_Login extends BaseClass {
 	public void loginTest() throws IOException
 	{
 		
+		
 		logger.info("url is opened");
 		//driver.manage().window().maximize();
 		LoginPage lp = new LoginPage(driver);

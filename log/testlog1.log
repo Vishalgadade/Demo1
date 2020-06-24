@@ -104,3 +104,15 @@
 2020-06-17 16:15:52,021 [main] INFO ebanking - providing customer details....
 2020-06-17 16:16:06,880 [main] INFO ebanking - validation started....
 2020-06-17 16:16:06,968 [main] INFO ebanking - test case passed....
+2020-06-23 17:29:50,638 [main] INFO ebanking - url is opened
+2020-06-23 17:29:51,179 [main] INFO ebanking - usrname is entered
+2020-06-23 17:29:51,313 [main] INFO ebanking - password is entered
+2020-06-24 12:36:27,872 [main] INFO ebanking - url is opened
+2020-06-24 12:36:28,305 [main] INFO ebanking - usrname is entered
+2020-06-24 12:36:28,439 [main] INFO ebanking - password is entered
+2020-06-24 12:46:43,022 [main] INFO ebanking - url is opened
+2020-06-24 12:46:43,268 [main] INFO ebanking - usrname is entered
+2020-06-24 12:46:43,405 [main] INFO ebanking - password is entered
+2020-06-24 12:56:33,733 [main] INFO ebanking - url is opened
+2020-06-24 12:56:33,918 [main] INFO ebanking - usrname is entered
+2020-06-24 12:56:34,080 [main] INFO ebanking - password is entered

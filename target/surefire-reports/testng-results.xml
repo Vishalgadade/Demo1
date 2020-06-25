@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-06-24T07:26:12Z" name="InetBanking" finished-at="2020-06-24T07:26:37Z" duration-ms="25341">
+  <suite started-at="2020-06-25T08:07:44Z" name="InetBanking" finished-at="2020-06-25T08:08:59Z" duration-ms="75181">
     <groups>
     </groups>
-    <test started-at="2020-06-24T07:26:12Z" name="BankingApp Test" finished-at="2020-06-24T07:26:37Z" duration-ms="25341">
+    <test started-at="2020-06-25T08:07:44Z" name="BankingApp Test" finished-at="2020-06-25T08:08:59Z" duration-ms="75181">
       <class name="com.inetbanking.testCases.TC001_Login">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC001_Login@10a035a0]" started-at="2020-06-24T07:26:12Z" name="setup" finished-at="2020-06-24T07:26:33Z" duration-ms="20791" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC001_Login@10a035a0]" started-at="2020-06-25T08:07:45Z" name="setup" finished-at="2020-06-25T08:08:46Z" duration-ms="61464" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTest()[pri:0, instance:com.inetbanking.testCases.TC001_Login@10a035a0]" started-at="2020-06-24T07:26:33Z" name="loginTest" finished-at="2020-06-24T07:26:36Z" duration-ms="2868" status="FAIL">
+        <test-method signature="loginTest()[pri:0, instance:com.inetbanking.testCases.TC001_Login@10a035a0]" started-at="2020-06-25T08:08:46Z" name="loginTest" finished-at="2020-06-25T08:08:58Z" duration-ms="11561" status="FAIL">
           <exception class="junit.framework.AssertionFailedError">
             <full-stacktrace>
               <![CDATA[junit.framework.AssertionFailedError
@@ -60,7 +60,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.inetbanking.testCases.TC001_Login@10a035a0]" started-at="2020-06-24T07:26:36Z" name="teardown" finished-at="2020-06-24T07:26:37Z" duration-ms="1334" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.inetbanking.testCases.TC001_Login@10a035a0]" started-at="2020-06-25T08:08:58Z" name="teardown" finished-at="2020-06-25T08:08:59Z" duration-ms="958" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
